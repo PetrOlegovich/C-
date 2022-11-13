@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\bin\Debug\net6.0\Exzample001.exe
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\bin\Debug\net6.0\Exzample001.deps.json
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\bin\Debug\net6.0\Exzample001.runtimeconfig.json
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\bin\Debug\net6.0\Exzample001.dll
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\bin\Debug\net6.0\Exzample001.pdb
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\obj\Debug\net6.0\Exzample001.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\obj\Debug\net6.0\Exzample001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\obj\Debug\net6.0\Exzample001.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\obj\Debug\net6.0\Exzample001.AssemblyInfo.cs
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\obj\Debug\net6.0\Exzample001.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\obj\Debug\net6.0\Exzample001.dll
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\obj\Debug\net6.0\refint\Exzample001.dll
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\obj\Debug\net6.0\Exzample001.pdb
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\obj\Debug\net6.0\Exzample001.genruntimeconfig.cache
+C:\Users\user\Desktop\derevo\vers_01\Exzample001\obj\Debug\net6.0\ref\Exzample001.dll
